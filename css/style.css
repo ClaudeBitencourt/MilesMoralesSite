@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+    -ms-ime-align: center;
+}
+
+.name {
+    text-align: left;
+}
+table,
+tr,
+td {
+    border: 1px solid;
+}
+
+table {
+    width: 45%;
+}
+
+tr {
+    text-align: left;
+}
